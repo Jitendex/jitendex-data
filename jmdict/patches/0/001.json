@@ -1,0 +1,16 @@
+[
+    {
+        "op": "test",
+        "path": "/Entry/Readings/1/Infos",
+        "value": [
+            "ik"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/Entry/Readings/1/Infos",
+        "value": [
+            "sk"
+        ]
+    }
+]
