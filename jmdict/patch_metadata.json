@@ -14,5 +14,21 @@
         "AuthorId": 1,
         "AuthorComment": "Replace [ik] tag with [sk] tag on hiragana form.",
         "PreviousPatchId": null
+    },
+    "2": {
+        "SequenceId": 2867149,
+        "SequenceDate": "2026-02-09",
+        "CreatedAt": "2026-03-10T19:01:56.9771213",
+        "AuthorId": 1,
+        "AuthorComment": "Delete low-quality entry.",
+        "PreviousPatchId": null
+    },
+    "3": {
+        "SequenceId": 2867152,
+        "SequenceDate": "2025-09-08",
+        "CreatedAt": "2026-03-10T19:11:21.3530067",
+        "AuthorId": 1,
+        "AuthorComment": "Delete low-quality entry.",
+        "PreviousPatchId": null
     }
 }

@@ -1,0 +1,56 @@
+[
+    {
+        "value": {
+            "KanjiForms": [
+                {
+                    "Text": "\u4E00\u65B9\u77F3\u306B\u6B7B\u306B\u306A\u3057",
+                    "Infos": [],
+                    "Priorities": []
+                }
+            ],
+            "Readings": [
+                {
+                    "Text": "\u3044\u3063\u307D\u3046\u3044\u3057\u306B\u3057\u306B\u306A\u3057",
+                    "NoKanji": false,
+                    "Infos": [],
+                    "Priorities": [],
+                    "Restrictions": []
+                }
+            ],
+            "Senses": [
+                {
+                    "KanjiFormRestrictions": [],
+                    "ReadingRestrictions": [],
+                    "PartsOfSpeech": [
+                        "exp"
+                    ],
+                    "Fields": [
+                        "go"
+                    ],
+                    "Miscs": [],
+                    "Dialects": [],
+                    "LanguageSources": [],
+                    "Notes": [],
+                    "Glosses": [
+                        {
+                            "TypeName": null,
+                            "Text": "one weak group can defend"
+                        },
+                        {
+                            "TypeName": null,
+                            "Text": "one group of weak stones doesn\u0027t die"
+                        }
+                    ],
+                    "CrossReferences": []
+                }
+            ]
+        },
+        "path": "/Entry",
+        "op": "test"
+    },
+    {
+        "value": null,
+        "path": "/Entry",
+        "op": "replace"
+    }
+]
