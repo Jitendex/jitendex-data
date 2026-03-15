@@ -1,0 +1,39 @@
+[
+    {
+        "value": "ik",
+        "path": "/Entry/Readings/2/Infos/0",
+        "op": "test"
+    },
+    {
+        "value": "sk",
+        "path": "/Entry/Readings/2/Infos/0",
+        "op": "replace"
+    },
+    {
+        "value": "\u3048\u3063\u3061",
+        "path": "/Entry/Senses/1/ReadingRestrictions/1",
+        "op": "test"
+    },
+    {
+        "path": "/Entry/Senses/1/ReadingRestrictions/1",
+        "op": "remove"
+    },
+    {
+        "value": "\u3048\u3063\u3061",
+        "path": "/Entry/Senses/2/ReadingRestrictions/1",
+        "op": "test"
+    },
+    {
+        "path": "/Entry/Senses/2/ReadingRestrictions/1",
+        "op": "remove"
+    },
+    {
+        "value": "\u3048\u3063\u3061",
+        "path": "/Entry/Senses/3/ReadingRestrictions/1",
+        "op": "test"
+    },
+    {
+        "path": "/Entry/Senses/3/ReadingRestrictions/1",
+        "op": "remove"
+    }
+]
