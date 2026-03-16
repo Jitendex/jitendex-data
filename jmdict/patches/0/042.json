@@ -1,0 +1,33 @@
+[
+    {
+        "value": [
+            "usu. \u30AD\u30EA\u30C1\u30AC\u30A4"
+        ],
+        "path": "/Entry/Senses/1/Notes",
+        "op": "test"
+    },
+    {
+        "value": [],
+        "path": "/Entry/Senses/1/Notes",
+        "op": "replace"
+    },
+    {
+        "value": [
+            {
+                "TypeName": "xref",
+                "Text": "\u5207\u308A\u9055\u3048\u308B"
+            },
+            {
+                "TypeName": "xref",
+                "Text": "\u30AD\u30EA\u30FB7"
+            }
+        ],
+        "path": "/Entry/Senses/1/CrossReferences",
+        "op": "test"
+    },
+    {
+        "value": [],
+        "path": "/Entry/Senses/1/CrossReferences",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "\u30CF\u30B6\u30DE\u30FB4",
+        "path": "/Entry/Senses/0/CrossReferences/0/Text",
+        "op": "test"
+    },
+    {
+        "value": "\u306F\u3056\u307E\u30FB4",
+        "path": "/Entry/Senses/0/CrossReferences/0/Text",
+        "op": "replace"
+    }
+]

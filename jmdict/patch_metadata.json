@@ -318,5 +318,53 @@
         "AuthorId": 1,
         "AuthorComment": "Use katakana form in cross reference.",
         "PreviousPatchId": null
+    },
+    "40": {
+        "SequenceId": 2867606,
+        "SequenceDate": "2025-11-05",
+        "CreatedAt": "2026-03-16T20:14:19.6391032",
+        "AuthorId": 1,
+        "AuthorComment": "Drop unnecessary cross reference.",
+        "PreviousPatchId": null
+    },
+    "41": {
+        "SequenceId": 1384830,
+        "SequenceDate": "2026-03-12",
+        "CreatedAt": "2026-03-16T20:17:01.2241981",
+        "AuthorId": 1,
+        "AuthorComment": "Drop unnecessary note and cross reference.",
+        "PreviousPatchId": null
+    },
+    "42": {
+        "SequenceId": 2868813,
+        "SequenceDate": "2026-03-12",
+        "CreatedAt": "2026-03-16T20:20:51.4318894",
+        "AuthorId": 1,
+        "AuthorComment": "Drop unnecessary note and cross references.",
+        "PreviousPatchId": null
+    },
+    "43": {
+        "SequenceId": 2868815,
+        "SequenceDate": "2026-03-12",
+        "CreatedAt": "2026-03-16T20:25:39.9288177",
+        "AuthorId": 1,
+        "AuthorComment": "Drop unnecessary cross references.",
+        "PreviousPatchId": null
+    },
+    "44": {
+        "SequenceId": 2869052,
+        "SequenceDate": "2026-03-12",
+        "CreatedAt": "2026-03-16T20:34:19.812495",
+        "AuthorId": 1,
+        "AuthorComment": "Use kana in cross reference.",
+        "PreviousPatchId": null
+    },
+    "45": {
+        "SequenceId": 1630250,
+        "SequenceDate": "2026-02-09",
+        "CreatedAt": "2026-03-16T20:36:01.0047765",
+        "AuthorId": 1,
+        "AuthorComment": "Drop unnecessary cross reference and note.",
+        "PreviousPatchId": null
     }
 }
