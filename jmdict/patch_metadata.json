@@ -46,5 +46,165 @@
         "AuthorId": 1,
         "AuthorComment": "Add search-only tags to old kana forms",
         "PreviousPatchId": null
+    },
+    "6": {
+        "SequenceId": 1027620,
+        "SequenceDate": "2024-05-22",
+        "CreatedAt": "2026-03-16T17:13:49.4759532",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "7": {
+        "SequenceId": 1061110,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T17:14:48.3129873",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "8": {
+        "SequenceId": 1080520,
+        "SequenceDate": "2024-05-28",
+        "CreatedAt": "2026-03-16T17:17:02.6559618",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "9": {
+        "SequenceId": 1112020,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T17:18:01.6630184",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "10": {
+        "SequenceId": 2039600,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T17:19:59.637346",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "11": {
+        "SequenceId": 2198530,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T17:23:14.2784154",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "12": {
+        "SequenceId": 2212860,
+        "SequenceDate": "2024-05-24",
+        "CreatedAt": "2026-03-16T17:30:48.0578295",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "13": {
+        "SequenceId": 2289730,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T17:36:31.513764",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "14": {
+        "SequenceId": 2324150,
+        "SequenceDate": "2025-03-21",
+        "CreatedAt": "2026-03-16T17:38:08.1516166",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "15": {
+        "SequenceId": 2831131,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T17:39:53.1295805",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "16": {
+        "SequenceId": 2857495,
+        "SequenceDate": "2023-12-19",
+        "CreatedAt": "2026-03-16T17:42:09.9065481",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "17": {
+        "SequenceId": 2856212,
+        "SequenceDate": "2025-11-16",
+        "CreatedAt": "2026-03-16T17:43:20.763524",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "18": {
+        "SequenceId": 2861622,
+        "SequenceDate": "2024-06-14",
+        "CreatedAt": "2026-03-16T17:45:17.7215705",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "19": {
+        "SequenceId": 2863926,
+        "SequenceDate": "2024-12-30",
+        "CreatedAt": "2026-03-16T17:46:23.4531027",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "20": {
+        "SequenceId": 2834380,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T17:49:59.5531466",
+        "AuthorId": 1,
+        "AuthorComment": "Add comma to reading.",
+        "PreviousPatchId": null
+    },
+    "21": {
+        "SequenceId": 2836246,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T17:52:39.1171172",
+        "AuthorId": 1,
+        "AuthorComment": "Hide kanji form with small \u3048.",
+        "PreviousPatchId": null
+    },
+    "22": {
+        "SequenceId": 2836251,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T17:53:34.9478499",
+        "AuthorId": 1,
+        "AuthorComment": "Hide kanji form with small \u3048.",
+        "PreviousPatchId": null
+    },
+    "23": {
+        "SequenceId": 2339220,
+        "SequenceDate": "2024-11-14",
+        "CreatedAt": "2026-03-16T18:00:58.3277484",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "24": {
+        "SequenceId": 2460760,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T18:01:31.2062329",
+        "AuthorId": 1,
+        "AuthorComment": "Remove nakaguro from reading.",
+        "PreviousPatchId": null
+    },
+    "25": {
+        "SequenceId": 2856003,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T18:09:43.7559948",
+        "AuthorId": 1,
+        "AuthorComment": "Add reading restrictions.",
+        "PreviousPatchId": null
     }
 }

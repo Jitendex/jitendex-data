@@ -1,0 +1,14 @@
+[
+    {
+        "value": [],
+        "path": "/Entry/KanjiForms/1/Infos",
+        "op": "test"
+    },
+    {
+        "value": [
+            "sK"
+        ],
+        "path": "/Entry/KanjiForms/1/Infos",
+        "op": "replace"
+    }
+]

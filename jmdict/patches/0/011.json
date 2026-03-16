@@ -1,0 +1,37 @@
+[
+    {
+        "value": "\u30D6\u30A4\u30A8\u30C3\u30AF\u30B9\u30AC\u30B9",
+        "path": "/Entry/Readings/0/Text",
+        "op": "test"
+    },
+    {
+        "value": "\u30D6\u30A4\u30FB\u30A8\u30C3\u30AF\u30B9\u30AC\u30B9",
+        "path": "/Entry/Readings/0/Text",
+        "op": "replace"
+    },
+    {
+        "value": [],
+        "path": "/Entry/Readings/1/Infos",
+        "op": "test"
+    },
+    {
+        "value": [
+            "sk"
+        ],
+        "path": "/Entry/Readings/1/Infos",
+        "op": "replace"
+    },
+    {
+        "value": {
+            "Text": "\u30D6\u30A4\u30A8\u30C3\u30AF\u30B9\u30AC\u30B9",
+            "NoKanji": false,
+            "Infos": [
+                "sk"
+            ],
+            "Priorities": [],
+            "Restrictions": []
+        },
+        "path": "/Entry/Readings/2",
+        "op": "add"
+    }
+]
