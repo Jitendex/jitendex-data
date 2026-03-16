@@ -1,0 +1,12 @@
+[
+    {
+        "value": false,
+        "path": "/Entry/Readings/0/NoKanji",
+        "op": "test"
+    },
+    {
+        "value": true,
+        "path": "/Entry/Readings/0/NoKanji",
+        "op": "replace"
+    }
+]

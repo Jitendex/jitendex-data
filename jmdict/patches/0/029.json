@@ -1,0 +1,34 @@
+[
+    {
+        "value": "\u3058\u3085\u3070\u3093",
+        "path": "/Entry/Readings/0/Text",
+        "op": "test"
+    },
+    {
+        "value": "\u30B8\u30E5\u30D0\u30F3",
+        "path": "/Entry/Readings/0/Text",
+        "op": "replace"
+    },
+    {
+        "value": "\u30B8\u30E5\u30D0\u30F3",
+        "path": "/Entry/Readings/2/Text",
+        "op": "test"
+    },
+    {
+        "value": "\u3058\u3085\u3070\u3093",
+        "path": "/Entry/Readings/2/Text",
+        "op": "replace"
+    },
+    {
+        "value": [],
+        "path": "/Entry/Readings/2/Infos",
+        "op": "test"
+    },
+    {
+        "value": [
+            "sk"
+        ],
+        "path": "/Entry/Readings/2/Infos",
+        "op": "replace"
+    }
+]

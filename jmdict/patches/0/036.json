@@ -1,0 +1,46 @@
+[
+    {
+        "value": "\u3084\u305D\u304B\u3044",
+        "path": "/Entry/Readings/0/Text",
+        "op": "test"
+    },
+    {
+        "value": "\u30E4\u30BD\u304B\u3044",
+        "path": "/Entry/Readings/0/Text",
+        "op": "replace"
+    },
+    {
+        "value": [
+            "\u8036\u8607\u4F1A"
+        ],
+        "path": "/Entry/Readings/0/Restrictions",
+        "op": "test"
+    },
+    {
+        "value": [],
+        "path": "/Entry/Readings/0/Restrictions",
+        "op": "replace"
+    },
+    {
+        "value": "\u30E4\u30BD\u304B\u3044",
+        "path": "/Entry/Readings/1/Text",
+        "op": "test"
+    },
+    {
+        "value": "\u3084\u305D\u304B\u3044",
+        "path": "/Entry/Readings/1/Text",
+        "op": "replace"
+    },
+    {
+        "value": [],
+        "path": "/Entry/Readings/1/Infos",
+        "op": "test"
+    },
+    {
+        "value": [
+            "sk"
+        ],
+        "path": "/Entry/Readings/1/Infos",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "value": [],
+        "path": "/Entry/KanjiForms/0/Infos",
+        "op": "test"
+    },
+    {
+        "value": [
+            "ateji"
+        ],
+        "path": "/Entry/KanjiForms/0/Infos",
+        "op": "replace"
+    },
+    {
+        "value": "rK",
+        "path": "/Entry/KanjiForms/2/Infos/0",
+        "op": "test"
+    },
+    {
+        "value": "ateji",
+        "path": "/Entry/KanjiForms/2/Infos/0",
+        "op": "replace"
+    },
+    {
+        "value": "rK",
+        "path": "/Entry/KanjiForms/2/Infos/1",
+        "op": "add"
+    },
+    {
+        "value": "gai1",
+        "path": "/Entry/Readings/0/Priorities/0",
+        "op": "test"
+    },
+    {
+        "value": "ichi1",
+        "path": "/Entry/Readings/0/Priorities/0",
+        "op": "replace"
+    },
+    {
+        "value": "news2",
+        "path": "/Entry/Readings/0/Priorities/1",
+        "op": "add"
+    },
+    {
+        "value": "nf38",
+        "path": "/Entry/Readings/0/Priorities/2",
+        "op": "add"
+    },
+    {
+        "value": false,
+        "path": "/Entry/Readings/1/NoKanji",
+        "op": "test"
+    },
+    {
+        "value": true,
+        "path": "/Entry/Readings/1/NoKanji",
+        "op": "replace"
+    },
+    {
+        "value": [
+            "gikun"
+        ],
+        "path": "/Entry/Readings/1/Infos",
+        "op": "test"
+    },
+    {
+        "value": [],
+        "path": "/Entry/Readings/1/Infos",
+        "op": "replace"
+    },
+    {
+        "value": "nf38",
+        "path": "/Entry/Readings/1/Priorities/2",
+        "op": "test"
+    },
+    {
+        "path": "/Entry/Readings/1/Priorities/2",
+        "op": "remove"
+    },
+    {
+        "value": "news2",
+        "path": "/Entry/Readings/1/Priorities/1",
+        "op": "test"
+    },
+    {
+        "path": "/Entry/Readings/1/Priorities/1",
+        "op": "remove"
+    },
+    {
+        "value": "ichi1",
+        "path": "/Entry/Readings/1/Priorities/0",
+        "op": "test"
+    },
+    {
+        "value": "gai1",
+        "path": "/Entry/Readings/1/Priorities/0",
+        "op": "replace"
+    }
+]

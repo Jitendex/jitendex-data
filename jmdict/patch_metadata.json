@@ -214,5 +214,101 @@
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro form.",
         "PreviousPatchId": null
+    },
+    "27": {
+        "SequenceId": 1059020,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T19:02:27.9831019",
+        "AuthorId": 1,
+        "AuthorComment": "Add no-kanji tag to hiragana form.",
+        "PreviousPatchId": null
+    },
+    "28": {
+        "SequenceId": 1284590,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T19:04:40.3729657",
+        "AuthorId": 1,
+        "AuthorComment": "Add no-kanji tag to hiragana form.",
+        "PreviousPatchId": null
+    },
+    "29": {
+        "SequenceId": 1572490,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T19:07:47.8242701",
+        "AuthorId": 1,
+        "AuthorComment": "Add search-only tag to hiragana form.",
+        "PreviousPatchId": null
+    },
+    "30": {
+        "SequenceId": 1597150,
+        "SequenceDate": "2024-11-13",
+        "CreatedAt": "2026-03-16T19:17:26.4418054",
+        "AuthorId": 1,
+        "AuthorComment": "Add no-kanji tag to hiragana form.",
+        "PreviousPatchId": null
+    },
+    "31": {
+        "SequenceId": 1955040,
+        "SequenceDate": "2025-11-27",
+        "CreatedAt": "2026-03-16T19:21:22.353514",
+        "AuthorId": 1,
+        "AuthorComment": "Add no-kanji tag to hiragana form.",
+        "PreviousPatchId": null
+    },
+    "32": {
+        "SequenceId": 2154000,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T19:23:57.0124492",
+        "AuthorId": 1,
+        "AuthorComment": "Add no-kanji tag to hiragana form.",
+        "PreviousPatchId": null
+    },
+    "33": {
+        "SequenceId": 2197150,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T19:25:18.7664537",
+        "AuthorId": 1,
+        "AuthorComment": "Add no-kanji tag to katakana form.",
+        "PreviousPatchId": null
+    },
+    "34": {
+        "SequenceId": 2750740,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T19:30:16.3496228",
+        "AuthorId": 1,
+        "AuthorComment": "Add no-kanji tag to katakana form.",
+        "PreviousPatchId": null
+    },
+    "35": {
+        "SequenceId": 2804610,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T19:34:17.5037986",
+        "AuthorId": 1,
+        "AuthorComment": "Add no-kanji tag to hiragana form.",
+        "PreviousPatchId": null
+    },
+    "36": {
+        "SequenceId": 2826284,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T19:38:36.2114542",
+        "AuthorId": 1,
+        "AuthorComment": "Add search-only tag to hiragana form.",
+        "PreviousPatchId": null
+    },
+    "37": {
+        "SequenceId": 2835797,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T19:39:58.6623931",
+        "AuthorId": 1,
+        "AuthorComment": "Add no-kanji tag to hiragana form.",
+        "PreviousPatchId": null
+    },
+    "38": {
+        "SequenceId": 2842109,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-16T19:43:55.059611",
+        "AuthorId": 1,
+        "AuthorComment": "Add search-only tags to hiragana forms.",
+        "PreviousPatchId": null
     }
 }
