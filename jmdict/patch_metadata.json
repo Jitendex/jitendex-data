@@ -374,5 +374,13 @@
         "AuthorId": 2,
         "AuthorComment": "Rebasing and squashing patches onto new sequence version from date 3/17/2026",
         "PreviousPatchId": null
+    },
+    "47": {
+        "SequenceId": 1025020,
+        "SequenceDate": "2023-08-26",
+        "CreatedAt": "2026-03-19T20:21:14.4373349",
+        "AuthorId": 1,
+        "AuthorComment": "Add lang src and kanji/reading info tags",
+        "PreviousPatchId": null
     }
 }
