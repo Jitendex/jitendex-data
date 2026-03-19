@@ -382,5 +382,13 @@
         "AuthorId": 1,
         "AuthorComment": "Add lang src and kanji/reading info tags",
         "PreviousPatchId": null
+    },
+    "48": {
+        "SequenceId": 1002360,
+        "SequenceDate": "2023-10-05",
+        "CreatedAt": "2026-03-19T22:08:08.7774518",
+        "AuthorId": 1,
+        "AuthorComment": "Remove [sk] tag and add reading restrictions.",
+        "PreviousPatchId": null
     }
 }
