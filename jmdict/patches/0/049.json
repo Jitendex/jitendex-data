@@ -1,0 +1,27 @@
+[
+    {
+        "value": [],
+        "path": "/Entry/Readings/0/Restrictions",
+        "op": "test"
+    },
+    {
+        "value": [
+            "\u30A6\u30A4\u30EB\u30B9\u6027"
+        ],
+        "path": "/Entry/Readings/0/Restrictions",
+        "op": "replace"
+    },
+    {
+        "value": {
+            "Text": "\u30A6\u30A3\u30EB\u30B9\u305B\u3044",
+            "NoKanji": false,
+            "Infos": [],
+            "Priorities": [],
+            "Restrictions": [
+                "\u30A6\u30A3\u30EB\u30B9\u6027"
+            ]
+        },
+        "path": "/Entry/Readings/1",
+        "op": "add"
+    }
+]
