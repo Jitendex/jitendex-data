@@ -1,0 +1,21 @@
+[
+    {
+        "op": "test",
+        "path": "/Entry/Senses/5/CrossReferences",
+        "value": [
+            {
+                "TypeName": "xref",
+                "Text": "\u30C4\u3050\u30FB4"
+            },
+            {
+                "TypeName": "xref",
+                "Text": "\u30C4\u30CA\u30AE\u30FB7"
+            }
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/Entry/Senses/5/CrossReferences",
+        "value": []
+    }
+]

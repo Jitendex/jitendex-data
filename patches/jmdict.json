@@ -1083,5 +1083,50 @@
             }
         ],
         "Recalls": []
+    },
+    "72": {
+        "SequenceId": 1251900,
+        "SequenceDate": "2026-03-03",
+        "CreatedAt": "2026-04-25T17:11:21.5228615",
+        "AuthorId": 1,
+        "AuthorComment": "Remove excessive cross-references.",
+        "PreviousPatchId": null,
+        "Approvals": [
+            {
+                "ApproverId": 1,
+                "CreatedAt": "2026-04-25T17:11:21.5947283"
+            }
+        ],
+        "Recalls": []
+    },
+    "73": {
+        "SequenceId": 1619570,
+        "SequenceDate": "2024-12-30",
+        "CreatedAt": "2026-04-25T17:13:07.92537",
+        "AuthorId": 1,
+        "AuthorComment": "Remove transitivity tag from adverb senses.",
+        "PreviousPatchId": null,
+        "Approvals": [
+            {
+                "ApproverId": 1,
+                "CreatedAt": "2026-04-25T17:13:08.0024213"
+            }
+        ],
+        "Recalls": []
+    },
+    "74": {
+        "SequenceId": 2868222,
+        "SequenceDate": "2025-11-30",
+        "CreatedAt": "2026-04-25T17:19:31.6790419",
+        "AuthorId": 1,
+        "AuthorComment": "Rearrange sense orders and PoS tags for \u306B\u304E\u306B\u304E",
+        "PreviousPatchId": null,
+        "Approvals": [
+            {
+                "ApproverId": 1,
+                "CreatedAt": "2026-04-25T17:19:31.7486561"
+            }
+        ],
+        "Recalls": []
     }
 }
