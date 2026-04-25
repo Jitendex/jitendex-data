@@ -948,5 +948,20 @@
             }
         ],
         "Recalls": []
+    },
+    "63": {
+        "SequenceId": 2870809,
+        "SequenceDate": "2026-04-25",
+        "CreatedAt": "2026-04-25T15:54:54.9176728",
+        "AuthorId": 1,
+        "AuthorComment": "Remove search-only tag from alternative spelling.",
+        "PreviousPatchId": null,
+        "Approvals": [
+            {
+                "ApproverId": 1,
+                "CreatedAt": "2026-04-25T15:54:54.9863702"
+            }
+        ],
+        "Recalls": []
     }
 }
