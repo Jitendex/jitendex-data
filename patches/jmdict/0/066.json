@@ -1,0 +1,34 @@
+[
+    {
+        "op": "test",
+        "path": "/Entry/Senses/0/CrossReferences/0/Text",
+        "value": "\u6012\u3089\u305B\u308B\u30FB1"
+    },
+    {
+        "op": "replace",
+        "path": "/Entry/Senses/0/CrossReferences/0/Text",
+        "value": "\u6012\u3089\u305B\u308B\u30FB\u304A\u3053\u3089\u305B\u308B\u30FB1"
+    },
+    {
+        "op": "test",
+        "path": "/Entry/Senses/1/ReadingRestrictions",
+        "value": []
+    },
+    {
+        "op": "replace",
+        "path": "/Entry/Senses/1/ReadingRestrictions",
+        "value": [
+            "\u3044\u304B\u3089\u3059"
+        ]
+    },
+    {
+        "op": "test",
+        "path": "/Entry/Senses/1/CrossReferences/0/Text",
+        "value": "\u6012\u3089\u305B\u308B\u30FB2"
+    },
+    {
+        "op": "replace",
+        "path": "/Entry/Senses/1/CrossReferences/0/Text",
+        "value": "\u6012\u3089\u305B\u308B\u30FB\u3044\u304B\u3089\u305B\u308B\u30FB2"
+    }
+]
