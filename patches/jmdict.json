@@ -1,7 +1,7 @@
 {
     "0": {
         "SequenceId": 1598390,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-08T18:16:38.2355373",
         "AuthorId": 1,
         "AuthorComment": "Add [sk] tag to katakana form.",
@@ -76,7 +76,7 @@
     },
     "5": {
         "SequenceId": 2812210,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T15:50:13.1269545",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tags to old kana forms",
@@ -106,7 +106,7 @@
     },
     "7": {
         "SequenceId": 1061110,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:14:48.3129873",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
@@ -136,7 +136,7 @@
     },
     "9": {
         "SequenceId": 1112020,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:18:01.6630184",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
@@ -151,7 +151,7 @@
     },
     "10": {
         "SequenceId": 2039600,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:19:59.637346",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
@@ -166,7 +166,7 @@
     },
     "11": {
         "SequenceId": 2198530,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:23:14.2784154",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
@@ -196,7 +196,7 @@
     },
     "13": {
         "SequenceId": 2289730,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:36:31.513764",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
@@ -226,7 +226,7 @@
     },
     "15": {
         "SequenceId": 2831131,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:39:53.1295805",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
@@ -301,7 +301,7 @@
     },
     "20": {
         "SequenceId": 2834380,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:49:59.5531466",
         "AuthorId": 1,
         "AuthorComment": "Add comma to reading.",
@@ -316,7 +316,7 @@
     },
     "21": {
         "SequenceId": 2836246,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:52:39.1171172",
         "AuthorId": 1,
         "AuthorComment": "Hide kanji form with small \u3048.",
@@ -331,7 +331,7 @@
     },
     "22": {
         "SequenceId": 2836251,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:53:34.9478499",
         "AuthorId": 1,
         "AuthorComment": "Hide kanji form with small \u3048.",
@@ -361,7 +361,7 @@
     },
     "24": {
         "SequenceId": 2460760,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T18:01:31.2062329",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
@@ -376,7 +376,7 @@
     },
     "25": {
         "SequenceId": 2856003,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T18:09:43.7559948",
         "AuthorId": 1,
         "AuthorComment": "Add reading restrictions.",
@@ -396,7 +396,7 @@
     },
     "26": {
         "SequenceId": 2159530,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T18:24:31.2541425",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro form.",
@@ -411,7 +411,7 @@
     },
     "27": {
         "SequenceId": 1059020,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:02:27.9831019",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
@@ -426,7 +426,7 @@
     },
     "28": {
         "SequenceId": 1284590,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:04:40.3729657",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
@@ -441,7 +441,7 @@
     },
     "29": {
         "SequenceId": 1572490,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:07:47.8242701",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to hiragana form.",
@@ -486,7 +486,7 @@
     },
     "32": {
         "SequenceId": 2154000,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:23:57.0124492",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
@@ -501,7 +501,7 @@
     },
     "33": {
         "SequenceId": 2197150,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:25:18.7664537",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to katakana form.",
@@ -516,7 +516,7 @@
     },
     "34": {
         "SequenceId": 2750740,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:30:16.3496228",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to katakana form.",
@@ -531,7 +531,7 @@
     },
     "35": {
         "SequenceId": 2804610,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:34:17.5037986",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
@@ -546,7 +546,7 @@
     },
     "36": {
         "SequenceId": 2826284,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:38:36.2114542",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to hiragana form.",
@@ -561,7 +561,7 @@
     },
     "37": {
         "SequenceId": 2835797,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:39:58.6623931",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
@@ -576,7 +576,7 @@
     },
     "38": {
         "SequenceId": 2842109,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:43:55.059611",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tags to hiragana forms.",
@@ -591,7 +591,7 @@
     },
     "39": {
         "SequenceId": 1353110,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T19:53:17.6134055",
         "AuthorId": 1,
         "AuthorComment": "Use katakana form in cross reference.",
@@ -716,7 +716,7 @@
     },
     "47": {
         "SequenceId": 1025020,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-19T20:21:14.4373349",
         "AuthorId": 1,
         "AuthorComment": "Add lang src and kanji/reading info tags",
@@ -746,7 +746,7 @@
     },
     "49": {
         "SequenceId": 2858587,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-19T22:10:50.4560167",
         "AuthorId": 1,
         "AuthorComment": "Add reading restrictions.",
@@ -791,7 +791,7 @@
     },
     "52": {
         "SequenceId": 1119540,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-20T00:28:48.8117951",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
@@ -806,7 +806,7 @@
     },
     "53": {
         "SequenceId": 2654560,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-20T00:29:54.4854963",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
@@ -821,7 +821,7 @@
     },
     "54": {
         "SequenceId": 2800490,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-20T00:31:04.9088711",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
@@ -836,7 +836,7 @@
     },
     "55": {
         "SequenceId": 1028670,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-20T00:31:43.5507323",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
@@ -851,7 +851,7 @@
     },
     "56": {
         "SequenceId": 1029950,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-20T00:32:28.1238606",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
@@ -866,7 +866,7 @@
     },
     "57": {
         "SequenceId": 1030210,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-20T00:33:05.5207725",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
@@ -881,7 +881,7 @@
     },
     "58": {
         "SequenceId": 2820860,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-20T00:33:46.0131825",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
@@ -896,7 +896,7 @@
     },
     "59": {
         "SequenceId": 2855009,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-20T00:34:36.9293038",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
@@ -911,7 +911,7 @@
     },
     "60": {
         "SequenceId": 2025320,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-20T00:52:28.8705218",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
@@ -926,7 +926,7 @@
     },
     "61": {
         "SequenceId": 2328910,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-20T00:54:06.8832083",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
@@ -1001,7 +1001,7 @@
     },
     "66": {
         "SequenceId": 1445660,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-04-25T16:43:30.1659357",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross references. Adding reading restriction to sense #2.",
@@ -1016,7 +1016,7 @@
     },
     "67": {
         "SequenceId": 2031600,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-04-25T16:45:10.5518694",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
@@ -1031,7 +1031,7 @@
     },
     "68": {
         "SequenceId": 2096810,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-04-25T16:46:51.2107269",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
@@ -1046,7 +1046,7 @@
     },
     "69": {
         "SequenceId": 2177818,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-04-25T16:49:01.8310938",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
@@ -1061,7 +1061,7 @@
     },
     "70": {
         "SequenceId": 2177810,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-04-25T16:50:35.2131097",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
@@ -1076,7 +1076,7 @@
     },
     "71": {
         "SequenceId": 2177814,
-        "SequenceDate": "2023-08-26",
+        "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-04-25T16:51:17.5122729",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
