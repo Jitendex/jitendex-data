@@ -1,0 +1,23 @@
+{
+    "patch": [
+        {
+            "op": "test",
+            "path": "/Entry/Senses/5/CrossReferences",
+            "value": [
+                {
+                    "TypeName": "see",
+                    "Text": "ツぐ・4"
+                },
+                {
+                    "TypeName": "see",
+                    "Text": "ツナギ・7"
+                }
+            ]
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/5/CrossReferences",
+            "value": []
+        }
+    ]
+}

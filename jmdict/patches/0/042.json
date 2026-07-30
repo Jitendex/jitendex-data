@@ -1,0 +1,35 @@
+{
+    "patch": [
+        {
+            "value": [
+                "usu. キリチガイ"
+            ],
+            "path": "/Entry/Senses/1/Notes",
+            "op": "test"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Senses/1/Notes",
+            "op": "replace"
+        },
+        {
+            "value": [
+                {
+                    "TypeName": "see",
+                    "Text": "切り違える"
+                },
+                {
+                    "TypeName": "see",
+                    "Text": "キリ・7"
+                }
+            ],
+            "path": "/Entry/Senses/1/CrossReferences",
+            "op": "test"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Senses/1/CrossReferences",
+            "op": "replace"
+        }
+    ]
+}

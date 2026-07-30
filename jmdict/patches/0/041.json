@@ -1,0 +1,31 @@
+{
+    "patch": [
+        {
+            "value": [
+                "sometimes キる"
+            ],
+            "path": "/Entry/Senses/20/Notes",
+            "op": "test"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Senses/20/Notes",
+            "op": "replace"
+        },
+        {
+            "value": [
+                {
+                    "TypeName": "see",
+                    "Text": "キリ・7"
+                }
+            ],
+            "path": "/Entry/Senses/20/CrossReferences",
+            "op": "test"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Senses/20/CrossReferences",
+            "op": "replace"
+        }
+    ]
+}

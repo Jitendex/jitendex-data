@@ -1,0 +1,41 @@
+{
+    "patch": [
+        {
+            "value": "ik",
+            "path": "/Entry/Readings/2/Infos/0",
+            "op": "test"
+        },
+        {
+            "value": "sk",
+            "path": "/Entry/Readings/2/Infos/0",
+            "op": "replace"
+        },
+        {
+            "value": "えっち",
+            "path": "/Entry/Senses/1/ReadingRestrictions/1",
+            "op": "test"
+        },
+        {
+            "path": "/Entry/Senses/1/ReadingRestrictions/1",
+            "op": "remove"
+        },
+        {
+            "value": "えっち",
+            "path": "/Entry/Senses/2/ReadingRestrictions/1",
+            "op": "test"
+        },
+        {
+            "path": "/Entry/Senses/2/ReadingRestrictions/1",
+            "op": "remove"
+        },
+        {
+            "value": "えっち",
+            "path": "/Entry/Senses/3/ReadingRestrictions/1",
+            "op": "test"
+        },
+        {
+            "path": "/Entry/Senses/3/ReadingRestrictions/1",
+            "op": "remove"
+        }
+    ]
+}

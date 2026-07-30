@@ -1,0 +1,23 @@
+{
+    "patch": [
+        {
+            "value": [
+                {
+                    "TypeName": "see",
+                    "Text": "キリチガイ・2"
+                },
+                {
+                    "TypeName": "see",
+                    "Text": "キリ・7"
+                }
+            ],
+            "path": "/Entry/Senses/0/CrossReferences",
+            "op": "test"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Senses/0/CrossReferences",
+            "op": "replace"
+        }
+    ]
+}

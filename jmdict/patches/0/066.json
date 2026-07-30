@@ -1,0 +1,36 @@
+{
+    "patch": [
+        {
+            "op": "test",
+            "path": "/Entry/Senses/0/CrossReferences/0/Text",
+            "value": "怒らせる・1"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/0/CrossReferences/0/Text",
+            "value": "怒らせる・おこらせる・1"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/ReadingRestrictions",
+            "value": []
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/1/ReadingRestrictions",
+            "value": [
+                "いからす"
+            ]
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/CrossReferences/0/Text",
+            "value": "怒らせる・2"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/1/CrossReferences/0/Text",
+            "value": "怒らせる・いからせる・2"
+        }
+    ]
+}

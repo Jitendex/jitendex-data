@@ -1,0 +1,60 @@
+{
+    "patch": [
+        {
+            "value": "じょーぐ",
+            "path": "/Entry/Readings/1/Text",
+            "op": "test"
+        },
+        {
+            "value": "ジョーグ",
+            "path": "/Entry/Readings/1/Text",
+            "op": "replace"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Readings/2/Infos",
+            "op": "test"
+        },
+        {
+            "value": [
+                "sk"
+            ],
+            "path": "/Entry/Readings/2/Infos",
+            "op": "replace"
+        },
+        {
+            "value": "ジョーグ",
+            "path": "/Entry/Readings/3/Text",
+            "op": "test"
+        },
+        {
+            "value": "じょーぐ",
+            "path": "/Entry/Readings/3/Text",
+            "op": "replace"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Readings/3/Infos",
+            "op": "test"
+        },
+        {
+            "value": [
+                "sk"
+            ],
+            "path": "/Entry/Readings/3/Infos",
+            "op": "replace"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Readings/4/Infos",
+            "op": "test"
+        },
+        {
+            "value": [
+                "sk"
+            ],
+            "path": "/Entry/Readings/4/Infos",
+            "op": "replace"
+        }
+    ]
+}

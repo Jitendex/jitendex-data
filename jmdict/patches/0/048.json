@@ -1,0 +1,40 @@
+{
+    "patch": [
+        {
+            "value": [],
+            "path": "/Entry/Readings/0/Restrictions",
+            "op": "test"
+        },
+        {
+            "value": [
+                "お待ちどおさま",
+                "お待ち遠様"
+            ],
+            "path": "/Entry/Readings/0/Restrictions",
+            "op": "replace"
+        },
+        {
+            "value": "sk",
+            "path": "/Entry/Readings/1/Infos/0",
+            "op": "test"
+        },
+        {
+            "value": "ik",
+            "path": "/Entry/Readings/1/Infos/0",
+            "op": "replace"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Readings/1/Restrictions",
+            "op": "test"
+        },
+        {
+            "value": [
+                "お待ちどうさま",
+                "お待ち遠様"
+            ],
+            "path": "/Entry/Readings/1/Restrictions",
+            "op": "replace"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "patch": [
+        {
+            "value": {
+                "KanjiForms": [
+                    {
+                        "Text": "死はハネにあり",
+                        "Infos": [],
+                        "Priorities": []
+                    }
+                ],
+                "Readings": [
+                    {
+                        "Text": "しははねにあり",
+                        "NoKanji": false,
+                        "Infos": [],
+                        "Priorities": [],
+                        "Restrictions": []
+                    }
+                ],
+                "Senses": [
+                    {
+                        "KanjiFormRestrictions": [],
+                        "ReadingRestrictions": [],
+                        "PartsOfSpeech": [
+                            "exp"
+                        ],
+                        "Fields": [
+                            "go"
+                        ],
+                        "Miscs": [],
+                        "Dialects": [],
+                        "LanguageSources": [],
+                        "Notes": [],
+                        "Glosses": [
+                            {
+                                "TypeName": null,
+                                "Text": "there is death in the hane"
+                            }
+                        ],
+                        "CrossReferences": [
+                            {
+                                "TypeName": "see",
+                                "Text": "ハネ・5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "path": "/Entry",
+            "op": "test"
+        },
+        {
+            "value": null,
+            "path": "/Entry",
+            "op": "replace"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "patch": [
+        {
+            "value": "じゅばん",
+            "path": "/Entry/Readings/0/Text",
+            "op": "test"
+        },
+        {
+            "value": "ジュバン",
+            "path": "/Entry/Readings/0/Text",
+            "op": "replace"
+        },
+        {
+            "value": "ジュバン",
+            "path": "/Entry/Readings/2/Text",
+            "op": "test"
+        },
+        {
+            "value": "じゅばん",
+            "path": "/Entry/Readings/2/Text",
+            "op": "replace"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Readings/2/Infos",
+            "op": "test"
+        },
+        {
+            "value": [
+                "sk"
+            ],
+            "path": "/Entry/Readings/2/Infos",
+            "op": "replace"
+        }
+    ]
+}

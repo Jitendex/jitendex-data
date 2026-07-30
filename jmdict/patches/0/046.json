@@ -1,0 +1,24 @@
+{
+    "patch": [
+        {
+            "value": "エイズ・ウイルス",
+            "path": "/Entry/Readings/0/Text",
+            "op": "test"
+        },
+        {
+            "value": "エイズウイルス",
+            "path": "/Entry/Readings/0/Text",
+            "op": "replace"
+        },
+        {
+            "value": "エイズウイルス",
+            "path": "/Entry/Readings/1/Text",
+            "op": "test"
+        },
+        {
+            "value": "エイズ・ウイルス",
+            "path": "/Entry/Readings/1/Text",
+            "op": "replace"
+        }
+    ]
+}

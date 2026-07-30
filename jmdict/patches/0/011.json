@@ -1,0 +1,39 @@
+{
+    "patch": [
+        {
+            "value": "ブイエックスガス",
+            "path": "/Entry/Readings/0/Text",
+            "op": "test"
+        },
+        {
+            "value": "ブイ・エックスガス",
+            "path": "/Entry/Readings/0/Text",
+            "op": "replace"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Readings/1/Infos",
+            "op": "test"
+        },
+        {
+            "value": [
+                "sk"
+            ],
+            "path": "/Entry/Readings/1/Infos",
+            "op": "replace"
+        },
+        {
+            "value": {
+                "Text": "ブイエックスガス",
+                "NoKanji": false,
+                "Infos": [
+                    "sk"
+                ],
+                "Priorities": [],
+                "Restrictions": []
+            },
+            "path": "/Entry/Readings/2",
+            "op": "add"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "patch": [
+        {
+            "value": false,
+            "path": "/Entry/Readings/1/NoKanji",
+            "op": "test"
+        },
+        {
+            "value": true,
+            "path": "/Entry/Readings/1/NoKanji",
+            "op": "replace"
+        }
+    ]
+}

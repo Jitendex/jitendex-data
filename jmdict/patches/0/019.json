@@ -1,0 +1,27 @@
+{
+    "patch": [
+        {
+            "value": "エイチ・ディー・ディー・ケース",
+            "path": "/Entry/Readings/0/Text",
+            "op": "test"
+        },
+        {
+            "value": "エイチ・ディー・ディーケース",
+            "path": "/Entry/Readings/0/Text",
+            "op": "replace"
+        },
+        {
+            "value": {
+                "Text": "エイチ・ディー・ディー・ケース",
+                "NoKanji": false,
+                "Infos": [
+                    "sk"
+                ],
+                "Priorities": [],
+                "Restrictions": []
+            },
+            "path": "/Entry/Readings/2",
+            "op": "add"
+        }
+    ]
+}

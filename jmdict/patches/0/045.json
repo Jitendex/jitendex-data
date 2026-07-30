@@ -1,0 +1,31 @@
+{
+    "patch": [
+        {
+            "value": [
+                "usu. as ハザマ"
+            ],
+            "path": "/Entry/Senses/3/Notes",
+            "op": "test"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Senses/3/Notes",
+            "op": "replace"
+        },
+        {
+            "value": [
+                {
+                    "TypeName": "see",
+                    "Text": "ハザマトビ"
+                }
+            ],
+            "path": "/Entry/Senses/3/CrossReferences",
+            "op": "test"
+        },
+        {
+            "value": [],
+            "path": "/Entry/Senses/3/CrossReferences",
+            "op": "replace"
+        }
+    ]
+}

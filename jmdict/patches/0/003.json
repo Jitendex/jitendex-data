@@ -1,0 +1,58 @@
+{
+    "patch": [
+        {
+            "value": {
+                "KanjiForms": [
+                    {
+                        "Text": "一方石に死になし",
+                        "Infos": [],
+                        "Priorities": []
+                    }
+                ],
+                "Readings": [
+                    {
+                        "Text": "いっぽういしにしになし",
+                        "NoKanji": false,
+                        "Infos": [],
+                        "Priorities": [],
+                        "Restrictions": []
+                    }
+                ],
+                "Senses": [
+                    {
+                        "KanjiFormRestrictions": [],
+                        "ReadingRestrictions": [],
+                        "PartsOfSpeech": [
+                            "exp"
+                        ],
+                        "Fields": [
+                            "go"
+                        ],
+                        "Miscs": [],
+                        "Dialects": [],
+                        "LanguageSources": [],
+                        "Notes": [],
+                        "Glosses": [
+                            {
+                                "TypeName": null,
+                                "Text": "one weak group can defend"
+                            },
+                            {
+                                "TypeName": null,
+                                "Text": "one group of weak stones doesn't die"
+                            }
+                        ],
+                        "CrossReferences": []
+                    }
+                ]
+            },
+            "path": "/Entry",
+            "op": "test"
+        },
+        {
+            "value": null,
+            "path": "/Entry",
+            "op": "replace"
+        }
+    ]
+}

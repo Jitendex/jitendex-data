@@ -1,0 +1,39 @@
+{
+    "patch": [
+        {
+            "value": [],
+            "path": "/Entry/KanjiForms/1/Infos",
+            "op": "test"
+        },
+        {
+            "value": [
+                "sK"
+            ],
+            "path": "/Entry/KanjiForms/1/Infos",
+            "op": "replace"
+        },
+        {
+            "value": "ゆびきたなしとてきられもせず",
+            "path": "/Entry/Readings/0/Text",
+            "op": "test"
+        },
+        {
+            "value": "ゆびきたなしとて、きられもせず",
+            "path": "/Entry/Readings/0/Text",
+            "op": "replace"
+        },
+        {
+            "value": {
+                "Text": "ゆびきたなしとてきられもせず",
+                "NoKanji": false,
+                "Infos": [
+                    "sk"
+                ],
+                "Priorities": [],
+                "Restrictions": []
+            },
+            "path": "/Entry/Readings/1",
+            "op": "add"
+        }
+    ]
+}

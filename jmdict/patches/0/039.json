@@ -1,0 +1,14 @@
+{
+    "patch": [
+        {
+            "value": "じょーぐー",
+            "path": "/Entry/Senses/2/CrossReferences/0/Text",
+            "op": "test"
+        },
+        {
+            "value": "ジョーグー",
+            "path": "/Entry/Senses/2/CrossReferences/0/Text",
+            "op": "replace"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "patch": [
+        {
+            "op": "test",
+            "path": "/Entry/Senses/0/CrossReferences/0/Text",
+            "value": "生死・2"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/0/CrossReferences/0/Text",
+            "value": "生死・しょうじ・2"
+        }
+    ]
+}

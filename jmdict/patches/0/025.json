@@ -1,0 +1,29 @@
+{
+    "patch": [
+        {
+            "value": [],
+            "path": "/Entry/Readings/0/Restrictions",
+            "op": "test"
+        },
+        {
+            "value": [
+                "パトー症候群"
+            ],
+            "path": "/Entry/Readings/0/Restrictions",
+            "op": "replace"
+        },
+        {
+            "value": {
+                "Text": "パトウしょうこぐん",
+                "NoKanji": false,
+                "Infos": [],
+                "Priorities": [],
+                "Restrictions": [
+                    "パトウ症候群"
+                ]
+            },
+            "path": "/Entry/Readings/1",
+            "op": "add"
+        }
+    ]
+}
