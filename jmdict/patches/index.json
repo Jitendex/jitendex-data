@@ -5,14 +5,7 @@
         "CreatedAt": "2026-03-08T18:16:38.2355373",
         "AuthorId": 1,
         "AuthorComment": "Add [sk] tag to katakana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-08T19:16:38.2355373"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "1": {
         "SequenceId": 1137720,
@@ -20,14 +13,7 @@
         "CreatedAt": "2026-03-08T18:42:07.8685071",
         "AuthorId": 1,
         "AuthorComment": "Replace [ik] tag with [sk] tag on hiragana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-08T19:42:07.8685071"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "2": {
         "SequenceId": 2867149,
@@ -35,14 +21,7 @@
         "CreatedAt": "2026-03-10T19:01:56.9771213",
         "AuthorId": 1,
         "AuthorComment": "Delete low-quality entry.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-10T19:01:57.0426296"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "3": {
         "SequenceId": 2867152,
@@ -50,14 +29,7 @@
         "CreatedAt": "2026-03-10T19:11:21.3530067",
         "AuthorId": 1,
         "AuthorComment": "Delete low-quality entry.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-10T19:11:21.4201647"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "4": {
         "SequenceId": 1029150,
@@ -65,14 +37,7 @@
         "CreatedAt": "2026-03-13T20:24:55.669884",
         "AuthorId": 1,
         "AuthorComment": "Hide hiragana form",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-13T20:24:55.7404468"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "5": {
         "SequenceId": 2812210,
@@ -80,14 +45,7 @@
         "CreatedAt": "2026-03-16T15:50:13.1269545",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tags to old kana forms",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T15:50:13.1996417"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "6": {
         "SequenceId": 1027620,
@@ -95,14 +53,7 @@
         "CreatedAt": "2026-03-16T17:13:49.4759532",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:13:49.5413683"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "7": {
         "SequenceId": 1061110,
@@ -110,14 +61,7 @@
         "CreatedAt": "2026-03-16T17:14:48.3129873",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:14:48.3802637"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "8": {
         "SequenceId": 1080520,
@@ -125,14 +69,7 @@
         "CreatedAt": "2026-03-16T17:17:02.6559618",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:17:02.7264903"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "9": {
         "SequenceId": 1112020,
@@ -140,14 +77,7 @@
         "CreatedAt": "2026-03-16T17:18:01.6630184",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:18:01.7279861"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "10": {
         "SequenceId": 2039600,
@@ -155,14 +85,7 @@
         "CreatedAt": "2026-03-16T17:19:59.637346",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:19:59.7006811"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "11": {
         "SequenceId": 2198530,
@@ -170,14 +93,7 @@
         "CreatedAt": "2026-03-16T17:23:14.2784154",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:23:14.3420568"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "12": {
         "SequenceId": 2212860,
@@ -185,14 +101,7 @@
         "CreatedAt": "2026-03-16T17:30:48.0578295",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:30:48.1230225"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "13": {
         "SequenceId": 2289730,
@@ -200,14 +109,7 @@
         "CreatedAt": "2026-03-16T17:36:31.513764",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:36:31.5767749"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "14": {
         "SequenceId": 2324150,
@@ -215,14 +117,7 @@
         "CreatedAt": "2026-03-16T17:38:08.1516166",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:38:08.2530293"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "15": {
         "SequenceId": 2831131,
@@ -230,14 +125,7 @@
         "CreatedAt": "2026-03-16T17:39:53.1295805",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:39:53.1924126"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "16": {
         "SequenceId": 2857495,
@@ -245,14 +133,7 @@
         "CreatedAt": "2026-03-16T17:42:09.9065481",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:42:09.9714344"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "17": {
         "SequenceId": 2856212,
@@ -260,14 +141,7 @@
         "CreatedAt": "2026-03-16T17:43:20.763524",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:43:20.8270888"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "18": {
         "SequenceId": 2861622,
@@ -275,14 +149,7 @@
         "CreatedAt": "2026-03-16T17:45:17.7215705",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:45:17.7846091"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "19": {
         "SequenceId": 2863926,
@@ -290,14 +157,7 @@
         "CreatedAt": "2026-03-16T17:46:23.4531027",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:46:23.5164809"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "20": {
         "SequenceId": 2834380,
@@ -305,44 +165,23 @@
         "CreatedAt": "2026-03-16T17:49:59.5531466",
         "AuthorId": 1,
         "AuthorComment": "Add comma to reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:49:59.6169769"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "21": {
         "SequenceId": 2836246,
         "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:52:39.1171172",
         "AuthorId": 1,
-        "AuthorComment": "Hide kanji form with small \u3048.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:52:39.182779"
-            }
-        ],
-        "Recalls": []
+        "AuthorComment": "Hide kanji form with small え.",
+        "PreviousPatchId": null
     },
     "22": {
         "SequenceId": 2836251,
         "SequenceDate": "2023-08-20",
         "CreatedAt": "2026-03-16T17:53:34.9478499",
         "AuthorId": 1,
-        "AuthorComment": "Hide kanji form with small \u3048.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T17:53:35.0112048"
-            }
-        ],
-        "Recalls": []
+        "AuthorComment": "Hide kanji form with small え.",
+        "PreviousPatchId": null
     },
     "23": {
         "SequenceId": 2339220,
@@ -350,14 +189,7 @@
         "CreatedAt": "2026-03-16T18:00:58.3277484",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T18:00:58.3941386"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "24": {
         "SequenceId": 2460760,
@@ -365,14 +197,7 @@
         "CreatedAt": "2026-03-16T18:01:31.2062329",
         "AuthorId": 1,
         "AuthorComment": "Remove nakaguro from reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T18:01:31.2689835"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "25": {
         "SequenceId": 2856003,
@@ -380,19 +205,7 @@
         "CreatedAt": "2026-03-16T18:09:43.7559948",
         "AuthorId": 1,
         "AuthorComment": "Add reading restrictions.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T18:09:43.8191477"
-            }
-        ],
-        "Recalls": [
-            {
-                "RecallerId": 1,
-                "CreatedAt": "2026-03-22T18:09:43.8191477"
-            }
-        ]
+        "PreviousPatchId": null
     },
     "26": {
         "SequenceId": 2159530,
@@ -400,14 +213,7 @@
         "CreatedAt": "2026-03-16T18:24:31.2541425",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T18:24:31.319248"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "27": {
         "SequenceId": 1059020,
@@ -415,14 +221,7 @@
         "CreatedAt": "2026-03-16T19:02:27.9831019",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:02:28.0475742"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "28": {
         "SequenceId": 1284590,
@@ -430,14 +229,7 @@
         "CreatedAt": "2026-03-16T19:04:40.3729657",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:04:40.4362914"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "29": {
         "SequenceId": 1572490,
@@ -445,14 +237,7 @@
         "CreatedAt": "2026-03-16T19:07:47.8242701",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to hiragana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:07:47.8875778"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "30": {
         "SequenceId": 1597150,
@@ -460,14 +245,7 @@
         "CreatedAt": "2026-03-16T19:17:26.4418054",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:17:26.5075945"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "31": {
         "SequenceId": 1955040,
@@ -475,14 +253,7 @@
         "CreatedAt": "2026-03-16T19:21:22.353514",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:21:22.4196637"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "32": {
         "SequenceId": 2154000,
@@ -490,14 +261,7 @@
         "CreatedAt": "2026-03-16T19:23:57.0124492",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:23:57.0752286"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "33": {
         "SequenceId": 2197150,
@@ -505,14 +269,7 @@
         "CreatedAt": "2026-03-16T19:25:18.7664537",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to katakana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:25:18.8331763"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "34": {
         "SequenceId": 2750740,
@@ -520,14 +277,7 @@
         "CreatedAt": "2026-03-16T19:30:16.3496228",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to katakana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:30:16.4151559"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "35": {
         "SequenceId": 2804610,
@@ -535,14 +285,7 @@
         "CreatedAt": "2026-03-16T19:34:17.5037986",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:34:17.568489"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "36": {
         "SequenceId": 2826284,
@@ -550,14 +293,7 @@
         "CreatedAt": "2026-03-16T19:38:36.2114542",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to hiragana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:38:36.2816171"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "37": {
         "SequenceId": 2835797,
@@ -565,14 +301,7 @@
         "CreatedAt": "2026-03-16T19:39:58.6623931",
         "AuthorId": 1,
         "AuthorComment": "Add no-kanji tag to hiragana form.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:39:58.7255724"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "38": {
         "SequenceId": 2842109,
@@ -580,14 +309,7 @@
         "CreatedAt": "2026-03-16T19:43:55.059611",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tags to hiragana forms.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:43:55.1225778"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "39": {
         "SequenceId": 1353110,
@@ -595,14 +317,7 @@
         "CreatedAt": "2026-03-16T19:53:17.6134055",
         "AuthorId": 1,
         "AuthorComment": "Use katakana form in cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T19:53:17.6765862"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "40": {
         "SequenceId": 2867606,
@@ -610,14 +325,7 @@
         "CreatedAt": "2026-03-16T20:14:19.6391032",
         "AuthorId": 1,
         "AuthorComment": "Drop unnecessary cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T20:14:19.7057973"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "41": {
         "SequenceId": 1384830,
@@ -625,14 +333,7 @@
         "CreatedAt": "2026-03-16T20:17:01.2241981",
         "AuthorId": 1,
         "AuthorComment": "Drop unnecessary note and cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T20:17:01.2908253"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "42": {
         "SequenceId": 2868813,
@@ -640,14 +341,7 @@
         "CreatedAt": "2026-03-16T20:20:51.4318894",
         "AuthorId": 1,
         "AuthorComment": "Drop unnecessary note and cross references.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T20:20:51.4953071"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "43": {
         "SequenceId": 2868815,
@@ -655,14 +349,7 @@
         "CreatedAt": "2026-03-16T20:25:39.9288177",
         "AuthorId": 1,
         "AuthorComment": "Drop unnecessary cross references.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T20:25:39.9919839"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "44": {
         "SequenceId": 2869052,
@@ -670,14 +357,7 @@
         "CreatedAt": "2026-03-16T20:34:19.812495",
         "AuthorId": 1,
         "AuthorComment": "Use kana in cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T20:34:19.8754993"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "45": {
         "SequenceId": 1630250,
@@ -685,19 +365,7 @@
         "CreatedAt": "2026-03-16T20:36:01.0047765",
         "AuthorId": 1,
         "AuthorComment": "Drop unnecessary cross reference and note.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-16T20:36:01.0683327"
-            }
-        ],
-        "Recalls": [
-            {
-                "RecallerId": 1,
-                "CreatedAt": "2026-06-06T15:13:00"
-            }
-        ]
+        "PreviousPatchId": null
     },
     "46": {
         "SequenceId": 1027620,
@@ -705,14 +373,7 @@
         "CreatedAt": "2026-03-17T15:02:49.3533252",
         "AuthorId": 2,
         "AuthorComment": "Rebasing and squashing patches onto new sequence version from date 3/17/2026",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-17T15:20:01.0683327"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "47": {
         "SequenceId": 1025020,
@@ -720,14 +381,7 @@
         "CreatedAt": "2026-03-19T20:21:14.4373349",
         "AuthorId": 1,
         "AuthorComment": "Add lang src and kanji/reading info tags",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-19T20:21:14.520208"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "48": {
         "SequenceId": 1002360,
@@ -735,14 +389,7 @@
         "CreatedAt": "2026-03-19T22:08:08.7774518",
         "AuthorId": 1,
         "AuthorComment": "Remove [sk] tag and add reading restrictions.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-19T22:08:08.8440075"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "49": {
         "SequenceId": 2858587,
@@ -750,14 +397,7 @@
         "CreatedAt": "2026-03-19T22:10:50.4560167",
         "AuthorId": 1,
         "AuthorComment": "Add reading restrictions.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-19T22:10:50.5216293"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "50": {
         "SequenceId": 1115640,
@@ -765,14 +405,7 @@
         "CreatedAt": "2026-03-20T00:14:48.3574027",
         "AuthorId": 1,
         "AuthorComment": "Add reading restrictions.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:14:48.4230302"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "51": {
         "SequenceId": 2326710,
@@ -780,14 +413,7 @@
         "CreatedAt": "2026-03-20T00:21:43.449983",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:21:43.518433"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "52": {
         "SequenceId": 1119540,
@@ -795,14 +421,7 @@
         "CreatedAt": "2026-03-20T00:28:48.8117951",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:28:48.8779494"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "53": {
         "SequenceId": 2654560,
@@ -810,14 +429,7 @@
         "CreatedAt": "2026-03-20T00:29:54.4854963",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:29:54.5516397"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "54": {
         "SequenceId": 2800490,
@@ -825,14 +437,7 @@
         "CreatedAt": "2026-03-20T00:31:04.9088711",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:31:04.9748109"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "55": {
         "SequenceId": 1028670,
@@ -840,14 +445,7 @@
         "CreatedAt": "2026-03-20T00:31:43.5507323",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:31:43.6175954"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "56": {
         "SequenceId": 1029950,
@@ -855,14 +453,7 @@
         "CreatedAt": "2026-03-20T00:32:28.1238606",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:32:28.190796"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "57": {
         "SequenceId": 1030210,
@@ -870,14 +461,7 @@
         "CreatedAt": "2026-03-20T00:33:05.5207725",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:33:05.5861561"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "58": {
         "SequenceId": 2820860,
@@ -885,14 +469,7 @@
         "CreatedAt": "2026-03-20T00:33:46.0131825",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:33:46.0789616"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "59": {
         "SequenceId": 2855009,
@@ -900,14 +477,7 @@
         "CreatedAt": "2026-03-20T00:34:36.9293038",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:34:36.9949079"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "60": {
         "SequenceId": 2025320,
@@ -915,14 +485,7 @@
         "CreatedAt": "2026-03-20T00:52:28.8705218",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:52:28.937583"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "61": {
         "SequenceId": 2328910,
@@ -930,14 +493,7 @@
         "CreatedAt": "2026-03-20T00:54:06.8832083",
         "AuthorId": 1,
         "AuthorComment": "Add search-only tag to nakaguro reading.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-03-20T00:54:06.9502286"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "62": {
         "SequenceId": 1015950,
@@ -945,14 +501,7 @@
         "CreatedAt": "2026-04-23T21:07:26.0557722",
         "AuthorId": 1,
         "AuthorComment": "Remove search-only tag from alternative spelling.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-23T21:07:26.1223193"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "63": {
         "SequenceId": 2870809,
@@ -960,14 +509,7 @@
         "CreatedAt": "2026-04-25T15:54:54.9176728",
         "AuthorId": 1,
         "AuthorComment": "Remove search-only tag from alternative spelling.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T15:54:54.9863702"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "64": {
         "SequenceId": 2860028,
@@ -975,14 +517,7 @@
         "CreatedAt": "2026-04-25T16:36:50.0033006",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T16:36:50.0718125"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "65": {
         "SequenceId": 1061000,
@@ -990,14 +525,7 @@
         "CreatedAt": "2026-04-25T16:38:15.9551663",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T16:38:16.0233631"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "66": {
         "SequenceId": 1445660,
@@ -1005,14 +533,7 @@
         "CreatedAt": "2026-04-25T16:43:30.1659357",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross references. Adding reading restriction to sense #2.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T16:43:30.2393876"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "67": {
         "SequenceId": 2031600,
@@ -1020,14 +541,7 @@
         "CreatedAt": "2026-04-25T16:45:10.5518694",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T16:45:10.6214271"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "68": {
         "SequenceId": 2096810,
@@ -1035,14 +549,7 @@
         "CreatedAt": "2026-04-25T16:46:51.2107269",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T16:46:51.2792371"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "69": {
         "SequenceId": 2177818,
@@ -1050,14 +557,7 @@
         "CreatedAt": "2026-04-25T16:49:01.8310938",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T16:49:01.8997823"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "70": {
         "SequenceId": 2177810,
@@ -1065,14 +565,7 @@
         "CreatedAt": "2026-04-25T16:50:35.2131097",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T16:50:35.2870534"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "71": {
         "SequenceId": 2177814,
@@ -1080,14 +573,7 @@
         "CreatedAt": "2026-04-25T16:51:17.5122729",
         "AuthorId": 1,
         "AuthorComment": "Add reading to cross reference.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T16:51:17.5812262"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "72": {
         "SequenceId": 1251900,
@@ -1095,14 +581,7 @@
         "CreatedAt": "2026-04-25T17:11:21.5228615",
         "AuthorId": 1,
         "AuthorComment": "Remove excessive cross-references.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T17:11:21.5947283"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "73": {
         "SequenceId": 1619570,
@@ -1110,28 +589,14 @@
         "CreatedAt": "2026-04-25T17:13:07.92537",
         "AuthorId": 1,
         "AuthorComment": "Remove transitivity tag from adverb senses.",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T17:13:08.0024213"
-            }
-        ],
-        "Recalls": []
+        "PreviousPatchId": null
     },
     "74": {
         "SequenceId": 2868222,
         "SequenceDate": "2025-11-30",
         "CreatedAt": "2026-04-25T17:19:31.6790419",
         "AuthorId": 1,
-        "AuthorComment": "Rearrange sense orders and PoS tags for \u306B\u304E\u306B\u304E",
-        "PreviousPatchId": null,
-        "Approvals": [
-            {
-                "ApproverId": 1,
-                "CreatedAt": "2026-04-25T17:19:31.7486561"
-            }
-        ],
-        "Recalls": []
+        "AuthorComment": "Rearrange sense orders and PoS tags for にぎにぎ",
+        "PreviousPatchId": null
     }
 }
