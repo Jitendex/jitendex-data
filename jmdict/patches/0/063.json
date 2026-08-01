@@ -1,5 +1,5 @@
 {
-    "patch": [
+    "revision": [
         {
             "op": "test",
             "path": "/Entry/KanjiForms/2/Text",

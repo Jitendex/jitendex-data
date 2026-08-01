@@ -1,5 +1,5 @@
 {
-    "patch": [
+    "revision": [
         {
             "value": "やそかい",
             "path": "/Entry/Readings/0/Text",

@@ -1,5 +1,5 @@
 {
-    "patch": [
+    "revision": [
         {
             "op": "test",
             "path": "/Entry/Senses/0/CrossReferences/0/Text",

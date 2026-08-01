@@ -1,5 +1,5 @@
 {
-    "patch": [
+    "revision": [
         {
             "value": false,
             "path": "/Entry/Readings/1/NoKanji",

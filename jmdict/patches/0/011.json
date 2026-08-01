@@ -1,5 +1,5 @@
 {
-    "patch": [
+    "revision": [
         {
             "value": "ブイエックスガス",
             "path": "/Entry/Readings/0/Text",
