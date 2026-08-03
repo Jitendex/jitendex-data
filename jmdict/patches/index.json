@@ -1,12 +1,4 @@
 {
-    "0": {
-        "SequenceId": 1598390,
-        "SequenceDate": "2023-08-20",
-        "CreatedAt": "2026-03-08T18:16:38.2355373",
-        "AuthorId": 1,
-        "AuthorComment": "Add [sk] tag to katakana form.",
-        "PreviousPatchId": null
-    },
     "1": {
         "SequenceId": 1137720,
         "SequenceDate": "2024-05-09",
@@ -597,6 +589,14 @@
         "CreatedAt": "2026-04-25T17:19:31.6790419",
         "AuthorId": 1,
         "AuthorComment": "Rearrange sense orders and PoS tags for にぎにぎ",
+        "PreviousPatchId": null
+    },
+    "75": {
+        "SequenceId": 1598390,
+        "SequenceDate": "2023-08-20",
+        "CreatedAt": "2026-04-27T18:16:38.2355373",
+        "AuthorId": 1,
+        "AuthorComment": "Add [sk] tag to katakana form.",
         "PreviousPatchId": null
     }
 }
