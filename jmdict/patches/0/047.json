@@ -88,7 +88,7 @@
         },
         {
             "value": [],
-            "path": "/Entry/Senses/0/LanguageSources",
+            "path": "/Entry/LanguageSources",
             "op": "test"
         },
         {
@@ -100,7 +100,7 @@
                     "IsWasei": false
                 }
             ],
-            "path": "/Entry/Senses/0/LanguageSources",
+            "path": "/Entry/LanguageSources",
             "op": "replace"
         }
     ]
