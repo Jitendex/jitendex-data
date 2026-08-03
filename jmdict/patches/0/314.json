@@ -1,0 +1,24 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Senses/0/CrossReferences/0/Reading",
+            "value": "ハザマ"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/0/CrossReferences/0/Reading",
+            "value": "はざま"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/0/CrossReferences/0/Text",
+            "value": "ハザマ[4]"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/0/CrossReferences/0/Text",
+            "value": "はざま[4]"
+        }
+    ]
+}

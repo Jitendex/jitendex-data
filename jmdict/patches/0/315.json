@@ -1,0 +1,16 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/ReadingRestrictions",
+            "value": []
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/1/ReadingRestrictions",
+            "value": [
+                "いからす"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Senses/0/CrossReferences",
+            "value": [
+                {
+                    "TypeName": "see",
+                    "Sequence": 2868813,
+                    "Corpus": null,
+                    "SenseNumber": 2,
+                    "KanjiForm": null,
+                    "Reading": "キリチガイ",
+                    "Text": "キリチガイ[2]"
+                },
+                {
+                    "TypeName": "see",
+                    "Sequence": 1383800,
+                    "Corpus": null,
+                    "SenseNumber": 7,
+                    "KanjiForm": null,
+                    "Reading": "キリ",
+                    "Text": "キリ[7]"
+                }
+            ]
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/0/CrossReferences",
+            "value": []
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/Notes",
+            "value": [
+                "usu. キリチガイ"
+            ]
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/1/Notes",
+            "value": []
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/CrossReferences",
+            "value": [
+                {
+                    "TypeName": "see",
+                    "Sequence": 2868815,
+                    "Corpus": null,
+                    "SenseNumber": null,
+                    "KanjiForm": "切り違える",
+                    "Reading": null,
+                    "Text": "切り違える"
+                },
+                {
+                    "TypeName": "see",
+                    "Sequence": 1383800,
+                    "Corpus": null,
+                    "SenseNumber": 7,
+                    "KanjiForm": null,
+                    "Reading": "キリ",
+                    "Text": "キリ[7]"
+                }
+            ]
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/1/CrossReferences",
+            "value": []
+        }
+    ]
+}

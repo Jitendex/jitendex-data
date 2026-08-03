@@ -2470,5 +2470,61 @@
         "AuthorId": 2,
         "AuthorComment": "Rebasing patch #4 onto new sequence version from date 2026-05-08.",
         "PreviousPatchId": null
+    },
+    "310": {
+        "SequenceId": 2867606,
+        "SequenceDate": "2026-05-08",
+        "CreatedAt": "2026-08-03T19:22:30.7287372",
+        "AuthorId": 1,
+        "AuthorComment": "Drop unnecessary cross reference.",
+        "PreviousPatchId": null
+    },
+    "311": {
+        "SequenceId": 1384830,
+        "SequenceDate": "2026-05-08",
+        "CreatedAt": "2026-08-03T19:30:08.9520991",
+        "AuthorId": 1,
+        "AuthorComment": "Drop unnecessary note and cross reference.",
+        "PreviousPatchId": null
+    },
+    "312": {
+        "SequenceId": 2868813,
+        "SequenceDate": "2026-05-08",
+        "CreatedAt": "2026-08-03T19:32:40.763716",
+        "AuthorId": 1,
+        "AuthorComment": "Drop unnecessary note and cross reference.",
+        "PreviousPatchId": null
+    },
+    "313": {
+        "SequenceId": 2868815,
+        "SequenceDate": "2026-05-08",
+        "CreatedAt": "2026-08-03T19:33:42.1599948",
+        "AuthorId": 1,
+        "AuthorComment": "Drop unnecessary cross references.",
+        "PreviousPatchId": null
+    },
+    "314": {
+        "SequenceId": 2869052,
+        "SequenceDate": "2026-05-08",
+        "CreatedAt": "2026-08-03T19:35:43.6988893",
+        "AuthorId": 1,
+        "AuthorComment": "Use kana in cross reference.",
+        "PreviousPatchId": null
+    },
+    "315": {
+        "SequenceId": 1445660,
+        "SequenceDate": "2026-05-08",
+        "CreatedAt": "2026-08-03T19:37:21.6686794",
+        "AuthorId": 1,
+        "AuthorComment": "Adding reading restriction to sense #2.",
+        "PreviousPatchId": null
+    },
+    "316": {
+        "SequenceId": 1251900,
+        "SequenceDate": "2026-05-08",
+        "CreatedAt": "2026-08-03T19:38:21.6981069",
+        "AuthorId": 1,
+        "AuthorComment": "Remove excessive cross-references.",
+        "PreviousPatchId": null
     }
 }
