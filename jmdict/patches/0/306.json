@@ -1,0 +1,16 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/1/Infos",
+            "value": []
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/KanjiForms/1/Infos",
+            "value": [
+                "sK"
+            ]
+        }
+    ]
+}

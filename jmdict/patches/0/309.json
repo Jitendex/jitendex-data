@@ -1,0 +1,41 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Readings/2/Infos/0",
+            "value": "ik"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/2/Infos/0",
+            "value": "sk"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/ReadingRestrictions/1",
+            "value": "えっち"
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/Senses/1/ReadingRestrictions/1"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/2/ReadingRestrictions/1",
+            "value": "えっち"
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/Senses/2/ReadingRestrictions/1"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/3/ReadingRestrictions/1",
+            "value": "えっち"
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/Senses/3/ReadingRestrictions/1"
+        }
+    ]
+}

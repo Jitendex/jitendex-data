@@ -1,0 +1,24 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Readings/0/Text",
+            "value": "エイズ・ウイルス"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/0/Text",
+            "value": "エイズウイルス"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1/Text",
+            "value": "エイズウイルス"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/1/Text",
+            "value": "エイズ・ウイルス"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Readings/0/Text",
+            "value": "イー・イー・カメラ"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/0/Text",
+            "value": "イー・イーカメラ"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1/Text",
+            "value": "イーイーカメラ"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/1/Text",
+            "value": "イー・イー・カメラ"
+        },
+        {
+            "op": "add",
+            "path": "/Entry/Readings/2",
+            "value": {
+                "Text": "イーイーカメラ",
+                "NoKanji": false,
+                "Infos": [
+                    "sk"
+                ],
+                "Priorities": [],
+                "Restrictions": []
+            }
+        }
+    ]
+}

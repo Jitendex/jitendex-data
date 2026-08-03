@@ -1,0 +1,60 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1/Text",
+            "value": "じょーぐ"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/1/Text",
+            "value": "ジョーグ"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/2/Infos",
+            "value": []
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/2/Infos",
+            "value": [
+                "sk"
+            ]
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/3/Text",
+            "value": "ジョーグ"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/3/Text",
+            "value": "じょーぐ"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/3/Infos",
+            "value": []
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/3/Infos",
+            "value": [
+                "sk"
+            ]
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/4/Infos",
+            "value": []
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/4/Infos",
+            "value": [
+                "sk"
+            ]
+        }
+    ]
+}

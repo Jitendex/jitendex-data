@@ -1,0 +1,73 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/2/Text",
+            "value": "言祝"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/KanjiForms/2/Text",
+            "value": "言寿ぎ"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/2/Infos",
+            "value": [
+                "sK"
+            ]
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/KanjiForms/2/Infos",
+            "value": []
+        },
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/3/Text",
+            "value": "寿"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/KanjiForms/3/Text",
+            "value": "言祝"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/4/Text",
+            "value": "言寿"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/KanjiForms/4/Text",
+            "value": "寿"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/5/Text",
+            "value": "言寿ぎ"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/KanjiForms/5/Text",
+            "value": "言寿"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1",
+            "value": {
+                "Text": "ことほき",
+                "NoKanji": false,
+                "Infos": [
+                    "ok"
+                ],
+                "Priorities": [],
+                "Restrictions": []
+            }
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/Readings/1"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Readings/0/Text",
+            "value": "やそかい"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/0/Text",
+            "value": "ヤソかい"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/0/Restrictions",
+            "value": [
+                "耶蘇会"
+            ]
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/0/Restrictions",
+            "value": []
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1/Text",
+            "value": "ヤソかい"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/1/Text",
+            "value": "やそかい"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1/Infos",
+            "value": []
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/1/Infos",
+            "value": [
+                "sk"
+            ]
+        }
+    ]
+}

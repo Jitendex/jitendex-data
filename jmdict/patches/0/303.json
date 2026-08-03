@@ -1,0 +1,14 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1/NoKanji",
+            "value": false
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/1/NoKanji",
+            "value": true
+        }
+    ]
+}

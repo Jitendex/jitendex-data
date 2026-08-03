@@ -1,0 +1,78 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/1/Text",
+            "value": "わわ菜"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/KanjiForms/1/Text",
+            "value": "娃娃菜"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/2/Text",
+            "value": "娃娃菜"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/KanjiForms/2/Text",
+            "value": "わわ菜"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/2/Infos",
+            "value": []
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/KanjiForms/2/Infos",
+            "value": [
+                "sK"
+            ]
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/0/Text",
+            "value": "わわさい"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/0/Text",
+            "value": "ワワサイ"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1/Text",
+            "value": "ワワサイ"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/1/Text",
+            "value": "わわさい"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1/NoKanji",
+            "value": false
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/1/NoKanji",
+            "value": true
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1/Restrictions",
+            "value": [
+                "娃娃菜"
+            ]
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/1/Restrictions",
+            "value": []
+        }
+    ]
+}

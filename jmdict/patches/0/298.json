@@ -1,0 +1,14 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Senses/2/CrossReferences/0/Text",
+            "value": "じょーぐー"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/2/CrossReferences/0/Text",
+            "value": "ジョーグー"
+        }
+    ]
+}
