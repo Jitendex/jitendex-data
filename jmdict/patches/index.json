@@ -2550,5 +2550,13 @@
         "AuthorId": 1,
         "AuthorComment": "Add comma to reading.",
         "PreviousPatchId": null
+    },
+    "320": {
+        "SequenceId": 2812210,
+        "SequenceDate": "2026-06-15",
+        "CreatedAt": "2026-08-03T20:40:19.0150252",
+        "AuthorId": 1,
+        "AuthorComment": "Remove kanji forms with modern kana orthography. Move sense #2 down to #4.",
+        "PreviousPatchId": null
     }
 }

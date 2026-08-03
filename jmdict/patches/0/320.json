@@ -1,0 +1,212 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/5",
+            "value": {
+                "Text": "患う",
+                "Infos": [
+                    "sK"
+                ],
+                "Priorities": []
+            }
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/KanjiForms/5"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/4",
+            "value": {
+                "Text": "愁う",
+                "Infos": [
+                    "sK"
+                ],
+                "Priorities": []
+            }
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/KanjiForms/4"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/KanjiForms/3",
+            "value": {
+                "Text": "憂う",
+                "Infos": [
+                    "sK"
+                ],
+                "Priorities": []
+            }
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/KanjiForms/3"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/PartsOfSpeech/2",
+            "value": "vt"
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/Senses/1/PartsOfSpeech/2"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/PartsOfSpeech/1",
+            "value": "v2h-k"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/1/PartsOfSpeech/1",
+            "value": "vt"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/Notes",
+            "value": [
+                "orig. 下二段"
+            ]
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/1/Notes",
+            "value": []
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/Glosses/3",
+            "value": {
+                "TypeName": null,
+                "Text": "to feel sorrow for"
+            }
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/Senses/1/Glosses/3"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/Glosses/2/Text",
+            "value": "to mourn"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/1/Glosses/2/Text",
+            "value": "to bewail"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/Glosses/1/Text",
+            "value": "to grieve"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/1/Glosses/1/Text",
+            "value": "to bemoan"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/1/Glosses/0/Text",
+            "value": "to lament"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/1/Glosses/0/Text",
+            "value": "to complain about"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/2/Glosses/2",
+            "value": {
+                "TypeName": null,
+                "Text": "to bewail"
+            }
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/Senses/2/Glosses/2"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/2/Glosses/1/Text",
+            "value": "to bemoan"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/2/Glosses/1/Text",
+            "value": "to be ailed by"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/2/Glosses/0/Text",
+            "value": "to complain about"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/2/Glosses/0/Text",
+            "value": "to suffer from (an illness)"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/3/PartsOfSpeech/0",
+            "value": "v2h-s"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/3/PartsOfSpeech/0",
+            "value": "v2h-k"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/3/Notes",
+            "value": []
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/3/Notes",
+            "value": [
+                "orig. 下二段"
+            ]
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/3/Glosses/0/Text",
+            "value": "to suffer from (an illness)"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/3/Glosses/0/Text",
+            "value": "to lament"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Senses/3/Glosses/1/Text",
+            "value": "to be ailed by"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Senses/3/Glosses/1/Text",
+            "value": "to grieve"
+        },
+        {
+            "op": "add",
+            "path": "/Entry/Senses/3/Glosses/2",
+            "value": {
+                "TypeName": null,
+                "Text": "to mourn"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/Entry/Senses/3/Glosses/3",
+            "value": {
+                "TypeName": null,
+                "Text": "to feel sorrow for"
+            }
+        }
+    ]
+}
