@@ -1,0 +1,29 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1",
+            "value": {
+                "Text": "エービーシーへいき",
+                "NoKanji": false,
+                "Infos": [],
+                "Priorities": [],
+                "Restrictions": []
+            }
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/Readings/1"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/0/Text",
+            "value": "エー・ビー・シーへいき"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/0/Text",
+            "value": "エービーシーへいき"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Readings/1",
+            "value": {
+                "Text": "ピーエスコンクリート",
+                "NoKanji": false,
+                "Infos": [
+                    "sk"
+                ],
+                "Priorities": [],
+                "Restrictions": []
+            }
+        },
+        {
+            "op": "remove",
+            "path": "/Entry/Readings/1"
+        },
+        {
+            "op": "test",
+            "path": "/Entry/Readings/0/Text",
+            "value": "ピー・エス・コンクリート"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/0/Text",
+            "value": "ピーエスコンクリート"
+        }
+    ]
+}

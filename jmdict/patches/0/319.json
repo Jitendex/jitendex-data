@@ -1,0 +1,14 @@
+{
+    "revision": [
+        {
+            "op": "test",
+            "path": "/Entry/Readings/0/Text",
+            "value": "ちょうのようにまいはちのようにさす"
+        },
+        {
+            "op": "replace",
+            "path": "/Entry/Readings/0/Text",
+            "value": "ちょうのようにまい、はちのようにさす"
+        }
+    ]
+}
