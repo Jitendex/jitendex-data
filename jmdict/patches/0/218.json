@@ -1,0 +1,14 @@
+{
+    "graphics": [
+        {
+            "op": "add",
+            "sense": 0,
+            "id": 132
+        },
+        {
+            "op": "add",
+            "sense": 1,
+            "id": 133
+        }
+    ]
+}
