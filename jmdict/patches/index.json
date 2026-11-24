@@ -2566,5 +2566,13 @@
         "AuthorId": 2,
         "AuthorComment": "Rebasing patch #73 onto new sequence version from date 2026-10-11.",
         "PreviousPatchId": null
+    },
+    "322": {
+        "SequenceId": 1572490,
+        "SequenceDate": "2026-10-14",
+        "CreatedAt": "2026-11-24T01:30:38.78557",
+        "AuthorId": 1,
+        "AuthorComment": "Add search-only tag to hiragana form (replacing patch #29).",
+        "PreviousPatchId": null
     }
 }

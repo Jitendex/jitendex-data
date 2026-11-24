@@ -1,0 +1,16 @@
+{
+    "revision": [
+        {
+            "value": [],
+            "path": "/Entry/Readings/2/Infos",
+            "op": "test"
+        },
+        {
+            "value": [
+                "sk"
+            ],
+            "path": "/Entry/Readings/2/Infos",
+            "op": "replace"
+        }
+    ]
+}
