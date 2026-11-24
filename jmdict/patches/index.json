@@ -2558,5 +2558,13 @@
         "AuthorId": 1,
         "AuthorComment": "Remove kanji forms with modern kana orthography. Move sense #2 down to #4.",
         "PreviousPatchId": null
+    },
+    "321": {
+        "SequenceId": 1619570,
+        "SequenceDate": "2026-10-11",
+        "CreatedAt": "2026-11-24T01:30:38.785569",
+        "AuthorId": 2,
+        "AuthorComment": "Rebasing patch #73 onto new sequence version from date 2026-10-11.",
+        "PreviousPatchId": null
     }
 }
